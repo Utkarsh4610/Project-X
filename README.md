@@ -24,6 +24,7 @@ https://nodejs.org/en/ -link.
  ![npm-1](json.png)
  ###### **"compile:sass": "node-sass sass/main.scss css/styles.css"** Syntax: "name": "node-sass inputfile outputfile"**
  Then save it.
+  ![npm-2](json1.png)
  ###### 6.Then write **npm run compile:sass** in cmd an d it will compile your css files in  a single css file named styles.css in  css folder.
  #### Yeyy you are ready with your sass setup.
  
