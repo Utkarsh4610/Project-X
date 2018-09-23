@@ -5,7 +5,7 @@ At first SASS may look bit confusing but it is very easy and handy.It makes the 
 # HOW TO INSTALL SASS COMPILER:
 For this we will use node js and npm package where we get all the open source packages and one of these
 package is a package to compile SASS. <addr>
- ###### **1. STALL NODE JS IN YOUR COMPUTER**
+ ###### **1. INSTALL NODE JS IN YOUR COMPUTER**
 https://nodejs.org/en/ -link.
  ###### **2. CHECK IF NODE JS IS INSTALLED IN YOUR COMPUTER**
   Open cmd
